@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phantumph
 - 👀 I’m interested in ...DIY projects, traveling and Gardening
 - 🌱 I’m currently learning ...CCNA/CCNP
-- 💞️ I’m looking to collaborate on ...CCNa adn or Cisco experts
+- 💞️ I’m looking to collaborate with ... Cisco experts
 - 📫 How to reach me ...pamenihafeni@gmail.com
 
 <!---
